@@ -1,0 +1,3 @@
+﻿escenario,estado,demanda_unidades,capacidad_unidades,faltante_unidades,costo_minimo_usd,ahorro_usd
+PRUEBA 1. DISTRIBUCIÓN MENSUAL ACTUAL OPTIMIZADA,Optimal,1800.0,2000,0,22100.0,6500.0
+PRUEBA 2. AUMENTO DEL 15 % EN LA DEMANDA,Infeasible,2070.0,2000,70.0,,
